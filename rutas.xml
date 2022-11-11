@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rutas>
+  <ruta>
+    <traslado medio="Bicicleta de carretera">ciclismo</traslado>
+    <nombre>CORONANDO el GARBI por la FRONTERA desde Valencia</nombre>
+    <ubicacion>Ronda Norte de Valencia</ubicacion>
+    <distancia>69 Km</distancia>
+    <elevacion dificultad="media">720 m</elevacion>
+    <imagen>ruta1</imagen>
+    <descripcion>Salida desde la Ronda Norte de Valencia direccion Tabernes Blanques,Almàssera,Bonrepòs I Mirambell,Les Cases de Bàrcena,Meliana,Foios,Albalat Dels Sorells y en esta localidad enlazaraemos con la CV-300 28 y enlazaremos con la Ctra CV 306 para ir hasta Puzol y desde esta localidad coger el Camino de Lliria para poder ir hasta Gilet y a continuacion con Estivella desde donde swe Inicia la Frontera pero antes de iniciar el ascenso deberemos pasar por tuneles y ya vereis los indicativos de Beselga y la Frontera,la Frontera seria a mano Izquierda el inicio esta algo roto pero conforme vamos subiendo se mejora el asfalto</descripcion>
+    <archivo>archivo1.pdf</archivo>
+  </ruta>
+  <ruta>
+    <traslado medio="Caminata en montaña">senderismo</traslado>
+    <nombre>Caminata  para principiantes</nombre>
+    <ubicacion>Montañas rocosas</ubicacion>
+    <distancia>10 KM</distancia>
+    <elevacion dificultad="facil">100m</elevacion>
+    <imagen>ruta2</imagen>
+    <descripcion>Esta es una ruta simple para las personas que quieran iniciar en el mundo del senderismo, el objetivo es conocer todo sobre esta practica mientras caminamos rumbo a la montaña.</descripcion>
+    <archivo>archivo2.pdf</archivo>
+  </ruta>
+</rutas>
